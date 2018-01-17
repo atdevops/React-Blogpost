@@ -1,6 +1,6 @@
 # React BlogPost
 
-React Redux BlogPost
+This React app helps to understand how to use react router v4 in your projects. 
 
 
 ### Getting Started
@@ -12,5 +12,3 @@ React Redux BlogPost
 > npm start
 ```
 
-#### Not Familiar with Git?
-This React app helps to understand how to use react router v4 in your projects. 
